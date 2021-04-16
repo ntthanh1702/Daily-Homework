@@ -1,0 +1,15 @@
+1.Giả sử trong một thử mục có tên Buoi2 có 2 file mới tạo lần lượt là bai1.txt và bai2.txt. Có những cách nào đã học trong buổi 1 để chuyển trạng thái 2 file mới từ Untracked files(báo màu đỏ) sang Staged (Xanh lá).
+	- C1: dùng "git add ." để chuyển tất cả các file từ Untracked sang Staged 
+	- C2: dùng "git <tên file> để chuyển 1 file cụ thể từ Untracked sang Staged 
+
+2.Hãy phân biệt tracked vs untracked files trong git
+	- Tracked: là tập tin đã được đánh dấu theo dõi trong git để làm việc với nó bằng lệnh "git add"
+	- UnTracked:Tập tin mới được tạo ra hoặc mới được thêm vào trong thư mục làm việc thì nó đang ở trong trạng 		 thái UnTracked
+
+3.Hãy nêu ý nghĩa 3 trạng thái của file trong git (3 stages in git). Các lệnh sử dụng trong git để chuyển các trạng thái.
+3 trạng thái của file trong git là: 
+	- working directory: là các file UnTracked trong máy, chưa được theo dõi bởi git local
+	- staging area: là các file đã được chuyển từ Tracked sang UnTracked bằng lệnh "git add."
+	 hoặc "git <tên file>
+	- repository: là các file đã được đẩy lên git server. Các lệnh sử dụng: 
+	 git init -> git remote add origin -> git commit -m -> git push origin master 
