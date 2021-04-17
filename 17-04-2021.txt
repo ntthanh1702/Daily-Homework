@@ -1,0 +1,4 @@
+Khi khởi tạo git(git init ), git sẽ tạo 1 folder .git.Tác dụng của folder này là gì? Giả sử, nếu xoá hoặc di chuyển folder này sang 1 thư mục khác thì điều gì sẽ xảy ra. Giải thích tại sao?
+
+- Khi khở tạo git init, sẽ tạo 1 git reposity rỗng tại thư mục hiện tai. Folder .git chứa tất cả những thông tin cần thiết để quản lý các sửa đổi và lịch sử của toàn bộ project. 
+- Nếu xóa hoặc di chuyển folder này sang 1 thư mục khác thì sẽ không thực hiện được các lệnh git nữa. Do thư mục của bạn lúc này không còn Repository nữa
