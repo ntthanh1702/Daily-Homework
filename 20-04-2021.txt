@@ -1,0 +1,3 @@
+*Tìm hiểu về commit -a*
+
+Trả lời: Cho biết các thay đổi sửa, xóa của file tracked, rồi commit chúng. Các file untracked sẽ không áp dụng được.
