@@ -1,0 +1,12 @@
+*Git branch*
+1.Khái niệm
+-Trong khi làm việc, có nhiều thành viên cùng tham gia, sửa lỗi -> cần đến chức năng Git branch
+-Branch dùng để phân nhánh và ghi lại luồng của lịch sử.Branch đã phân nhánh sẽ không ảnh hưởng đến branch khác nên có thể tiến hành nhiều thay đổi đồng thời trong cùng 1 repository.
+-Branch ghi lại lịch sử công việc giúp cho mọi người dễ dàng theo dõi.
+2.Branch master
+-Khi lần đầu commit thì git sẽ tạo ra 1 branch có tên là master. Những lần commit sau sẽ được thêm vào branch master cho đến khi chuyển đổi branch
+3.Một số thao tác với branch:
+-Tạo branch: git branch <ten branch>
+-Chuyển đổi branch: git checkout <branch>
+-Tích hợp các nhánh: git merge <commit>: 
+-Xóa branch: git branch -d <tên branch>: 
