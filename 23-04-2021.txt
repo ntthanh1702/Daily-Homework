@@ -1,0 +1,3 @@
+*Sự giống và khác nhau giữa "git checkout" và "git switch"*
+-Giống: đều dùng để chuyển nhánh mới
+-Khác: "git checkout" còn được dùng để phục hồi file trong thư mục làm việc từ 1 commit trước đây, và được sử dụng nhiều hơn "git switch"
