@@ -6,7 +6,6 @@ Trả lời:
 1.commit merge CÓ được log trên nhánh đích: branch A
 2. Thứ tự xuất hiện của các commit CÓ phụ thuộc vào thời gian của commi 2-3-4
 <Theo đề bài thì commit nào xuất hiện sau sẽ xếp sau. Còn em thực hành thấy các commit xuất hiện từ trên xuống theo thứ tự thời gian, commit xuất hiện sau sẽ ở trên>
--Nếu commit 2 xuất hiện trước commit 3,4 ->Thứ tự: 1-2-3-4
--Nếu commit 3,4 xuất hiện trước commit 2 -> Thứ tự: 1-3-4-2
-
+-Nếu commit 2 xuất hiện trước commit 3,4 ->Thứ tự: 1-2-3-4-"merge commit"
+-Nếu commit 3,4 xuất hiện trước commit 2 -> Thứ tự: 1-3-4-2-"merge commit"
 
