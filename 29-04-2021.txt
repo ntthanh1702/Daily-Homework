@@ -1,0 +1,6 @@
+Viết một bài tìm hiểu về 3 tùy chọn merge : "create a merge commit", "Squash and merge", "Rebase and merge" khi thực hiện merge pull request trên github
+
+Trả lời:
+-Create a merge commit: Tất cả các commit từ nhánh này sẽ được thêm vào nhánh master(nhánh chính) thông qua 1 commit (merge commit)
+-Squash and merge: Tất cả các commit được hợp nhất lại làm 1 và được thêm vào nhánh chính master
+-Rebase and merge: Tất cả các commit được đưa vào nhánh chính mà không cần 1 commit hợp nhất
