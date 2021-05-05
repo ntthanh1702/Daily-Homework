@@ -1,0 +1,32 @@
+*OOP*
+1. What? OOP là gì ?
+- Lập trình hướng đối tương (object oriented programming-oop): là 1 trong những kĩ thuật lập trình rất quan trọng và sử dụng nhiều hiện nay. Hầu hết các ngôn ngữ lập trình như Java, PHP, .NET, Ruby,... đều hỗ trợ OOP
+- Lập trình hướng đối tượng là một kỹ thuật lập trình cho phép lập trình viên tạo ra các đối tượng trong code trừu tượng hóa các đối tượng.
+-Về đối tượng (Object)
+	Mỗi một đối tượng sẽ bao gồm 2 thông tin là phương thức và thuộc tính; 
+	+Thuộc tính: là các thông tin, đặc điểm của đối tượng mà lập trình viên hướng 	đến. 
+	+Phương thức: Chính là các thao tác, hành động mà đối tượng lập trình có thể thực 	hiện được. 
+-Về lớp (Class)
+	Mỗi một lớp là một kiểu dữ liệu và nó bao gồm nhiều thuộc tính và phương thức đã 	được định nghĩa từ trước. Đây được xem là sự trừu tượng hóa của rất nhiều đối 	tượng. Hoàn toàn khác với các kiểu dữ liệu thông thường, mỗi một lớp là một đơn 	vị bao gồm các sự kế hợp giữa phương thức cũng như thuộc tính. 
+- Nguyên lý cơ bản của oop:
+	+Tính đóng gói
+	+Tính kế thừa
+	+Tính đa hình
+	+Tính trừu tượng
+2.WHy? Tại sao dùng OOP?
+Vì OOP có những ưu điểm sau: 
+- OOP mô hình hóa những thứ phức tạp dưới dạng cấu trúc đơn giản.
+- Code OOP có thể sử dụng lại, giúp tiết kiệm tài nguyên.
+- Giúp sửa lỗi dễ dàng hơn. So với việc tìm lỗi ở nhiều vị trí trong code thì tìm lỗi trong các lớp (được cấu trúc từ trước) đơn giản và ít mất thời gian hơn.
+- Có tính bảo mật cao, bảo vệ thông tin thông qua đóng gói.
+- Dễ mở rộng dự án.
+
+3.When? Khi nào sử dụng OOP?
+Dùng để giải quyết những bài toán, vấn đề lớn
+4. Where? OOP sử dụng trong ngôn ngữ nào?
+OOP được sử dụng phổ biến trong rất nhiều ngôn ngữ: Java, C++, PHP, Python, JavaScript, .NET
+
+5. Who? Ai là người sử sụng oop?
+Tất cả lập trình viên đều phải nắm vững kiến thức về oop. oop là 1 trong những kiến thức cơ bản mà lập trình viên nào cũng phải có
+
+6. How? Giải quyết bài toán OOP như thế nào?
