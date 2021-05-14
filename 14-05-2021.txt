@@ -1,0 +1,32 @@
+*Tổng hợp kiến thức về database*
+
+Trả lời:
+
+1.CSDL là gì
+- Tập hợp các thông tin như: âm thanh, hình ảnh, văn bản...
+2.Hệ quản trị CSDL
+- Là một phần mềm cho phép tạo lập các CSDL cho các ứng dụng khác nhau và điều khiển mọi truy cập tới các CSDL đó
+3.Lợi ích của CSDL
+- Lưu trữ thông tin có hệ thống.
+- Đảm bảo an toàn dữ liệu.
+- Có thể phục vụ nhiều người cùng truy cập tại 1 thời điểm.
+- Quản lý dữ liệu dễ dàng: tránh trùng lặp dữ liệu. 
+- Lưu dữ liệu thành dạng các bảng(table) -> xem dữ liệu dễ dàng hơn. 
+- Tách biệt giữa các chương trình.
+4.ACID
+- atomatic(tính nguyên tử)
+- consistency
+- isolation
+- durability
+5.Các loại liên kết
+- 1:1
+- 1:N
+- N:N
+6.Các khái niệm sẽ gặp trong CSDL
+- Khóa chính
+- Khóa ngoại 
+- Thuộc tính
+- Thuộc tính dẫn xuất
+- Bảng
+- Bản ghi
+- Query
